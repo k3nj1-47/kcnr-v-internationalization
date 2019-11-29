@@ -56,7 +56,7 @@
     "ERROR_PROPERTY_ALREADY_HAS_ADDON": "This property already has this addon",
     "ERROR_PROPERTY_ALREADY_OWNED": "This %% is already owned by someone",
     "ERROR_PROPERTY_ALREADY_OWNED_QUANTITY": "You already own %% %%. You may not purchase any more",
-    "ERROR_PROPERTY_COULD_NOT_BE_ENTERED": "This property could not be entered at the moment",
+    "ERROR_PROPERTY_COULD_NOT_BE_ENTERED": "No se puede entrar a esta propiedad por el momento.",
     "ERROR_PROPERTY_COULD_NOT_BE_EXITED": "This property could not be exited at the moment",
     "ERROR_PROPERTY_HAS_INVALID_PRICE": "This %% does not have a valid price attached to it. Please report this",
     "ERROR_PROPERTY_NOT_OWNED": "This %% is not owned by anyone",
